@@ -1,17 +1,15 @@
-# COVID-19-CaseStudy-and-Predictions [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE)
-This repository is a case study, analysis, and visualization of COVID-19 Pandemic spread along with prediction models.
+# COVID-19-CaseStudy-and-Predictions 
+This repository is a case study, analysis, and visualization of the COVID-19 Pandemic spread along with prediction models.
 # Open to All
-If you want to contribute to the notebook or any feedback and suggestions are most welcome. 
+If you want to contribute to the notebook any feedback and suggestions are most welcome. 
  
-# Kaggle
-[Follow me on Kaggle](https://www.kaggle.com/tarunk04)<br>
-[View Latest Version](https://www.kaggle.com/tarunk04/covid-19-case-study-analysis-viz-comparisons)
+
 
 Silent Features 
 ================
-* Several visualizations of a time-series dataset of covid19 cases.   
-* Case Study of the World and few countries, including India. 
-* Forecast of a number of global confirmed cases and deaths.
+* Several visualizations of a time-series dataset of COVID-19 cases.   
+* Case Study of the World and a few countries, including India. 
+* Forecast of several global confirmed cases and deaths.
 
 Dataset
 ======
@@ -20,7 +18,7 @@ https://github.com/CSSEGISandData/COVID-19
 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 This dataset is updated daily by Johns Hopkins CSSE.
 
-Dataset consists of time-series data from 22 JAN 2020 to Till date (Updated on daily Basis).<br>
+The dataset consists of time-series data from 22 JAN 2020 to Till date (Updated on daily Basis).<br>
 **Three Time-series dataset (Depricated):**
 * time_series_19-covid-Confirmed.csv ([Link Raw File](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv))
 * time_series_19-covid-Deaths.csv ([Link Raw File](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Deaths.csv))
@@ -39,8 +37,8 @@ Installation
 ```console
 git clone https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions
 ```
-or click `Download ZIP` in right panel of repository and extract it.
-* Open latest version of notebook in **Jupyter Notebook**.
+or click `Download ZIP` in the right panel of the repository and extract it.
+* Open the latest version of the notebook in **Jupyter Notebook**.
 
 
 Visualization Preview
@@ -65,11 +63,11 @@ Prediction using the ML model for both global confirmed cases and deaths.<br>
 [![BuyMeCoffe](https://cdn-images-1.medium.com/max/800/1*Dpw8-hNGI2fDmosV4E8DVQ.png)](https://www.buymeacoffee.com/tarunkumar)
 
 # Authors
-Tarun Kumar
+Hussain Adeli
 
 #### Authors' Note:<br>
-The author has tried to get the best result using the dataset. The author is not responsible for any misuse. Read Licence carefully.
-If you want to contribute to the notebook or any feedback and suggestions are most welcome.
+The author has tried to get the best result using the dataset. The author is not responsible for any misuse. Read the Licence carefully.
+If you want to contribute to the notebook any feedback and suggestions are most welcome.
 
 # License
 The MIT License, see the included, see the [License](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE) file.
