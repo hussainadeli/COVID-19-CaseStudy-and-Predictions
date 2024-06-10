@@ -59,8 +59,6 @@ Prediction using the ML model for both global confirmed cases and deaths.<br>
 
 <b>To get full insights and visualization see the notebook on KAGGLE [View Latest Version Notebook](https://www.kaggle.com/tarunkr/covid-19-case-study-analysis-viz-comparisons) </b>
 
---------------------
-[![BuyMeCoffe](https://cdn-images-1.medium.com/max/800/1*Dpw8-hNGI2fDmosV4E8DVQ.png)](https://www.buymeacoffee.com/tarunkumar)
 
 # Authors
 Hussain Adeli
